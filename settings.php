@@ -785,5 +785,12 @@ $settings['entity_update_batch_size'] = 50;
 if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
   include $app_root . '/' . $site_path . '/settings.local.php';
 }
-
+else {
+  $databases['default']['default'] = array (
+    'database' => 'sites/default/files/.ht.sqlite',
+    'prefix' => '',
+    'namespace' => 'Drupal\\Core\\Database\\Driver\\sqlite',
+    'driver' => 'sqlite',
+  );
+}
 $config_directories['sync'] = '../config';

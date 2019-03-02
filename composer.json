@@ -24,7 +24,8 @@
         "drupal/core": "~8.5",
         "drush/drush": "^9.0.0",
         "drupal/tome": "^1.0",
-        "drupal-tome/tome_drush": "dev-master"
+        "drupal-tome/tome_drush": "dev-master",
+        "drupal/admin_toolbar": "^1.26"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

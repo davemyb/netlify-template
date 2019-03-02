@@ -32,7 +32,7 @@
     ],
     "timezone": [
         {
-            "value": "UTC"
+            "value": "America\/New_York"
         }
     ],
     "status": [
@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2018-08-04T03:44:32+00:00",
+            "value": "2019-03-02T17:15:33+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -63,5 +63,6 @@
         {
             "value": true
         }
-    ]
+    ],
+    "user_picture": []
 }

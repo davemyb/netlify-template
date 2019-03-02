@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "dbe457c8-8ed4-467b-8bd8-cd50adf1e43f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "fbe38a5e-8a21-4c9d-824d-22b2dac9e9ad"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-02T19:40:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "How to setup Tome and Drupal to create a decoupled static site on Netlify"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-02T17:18:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-02T19:40:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/tome-drupal-netlify",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The latest big thing is decoupling. By \"decoupling\" in the context of Drupal, I mean that the site that people actually see is not the site where you edit your content. There are many ways to achieve this, but this article will be about using Tome (<a href=\"https:\/\/www.drupal.org\/project\/tome\">https:\/\/www.drupal.org\/project\/tome<\/a>) to achieve this. One of the really nice aspects of this method is that you can easily have the static site hosted on <a href=\"https:\/\/www.netlify.com\">Netlify <\/a>for free. In fact, we begin on Netlify.<\/p>\r\n\r\n<p>To install the starter template on Netlify, make sure you're logged into your Netlify account and the click this link:&nbsp;<a href=\"https:\/\/app.netlify.com\/start\/deploy?repository=https:\/\/github.com\/drupal-tome\/netlify-template\">https:\/\/app.netlify.com\/start\/deploy?repository=https:\/\/github.com\/drupal-tome\/netlify-template<\/a>.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Netlify logo",
+            "title": "",
+            "width": 400,
+            "height": 400,
+            "target_type": "file",
+            "target_uuid": "d95ed712-4d4b-42ee-866d-755cdf0ca7e1"
+        }
+    ],
+    "field_tags": []
+}

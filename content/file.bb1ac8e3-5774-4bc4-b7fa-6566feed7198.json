@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "bb1ac8e3-5774-4bc4-b7fa-6566feed7198"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "netlify.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-03\/netlify_0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 13506
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-02T17:27:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-02T17:27:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
